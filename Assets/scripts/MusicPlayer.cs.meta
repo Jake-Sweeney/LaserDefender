@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c382adfa0c9618246b9395a1eafd07b3
+timeCreated: 1493665129
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - startClip: {fileID: 8300000, guid: c077f08c660b3ed4bbee43f05274e7cb, type: 3}
+  - gameClip: {fileID: 8300000, guid: b65ea4d54e89c2548a1d0db2e8bcacec, type: 3}
+  - endClip: {fileID: 8300000, guid: d77814200e2676a4e98bf5db047d9258, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
